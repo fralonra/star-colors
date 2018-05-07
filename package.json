@@ -1,7 +1,7 @@
 {
   "name": "star-colors",
   "version": "0.0.1",
-  "description": "",
+  "description": "Get realistic colors of stars",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
