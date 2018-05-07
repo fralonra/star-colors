@@ -7,7 +7,7 @@ const chromaticity = {
   },
 
   randomRgb () {
-    const stellar = data[keys[Math.round(Math.random() * keys.length)]];
+    const stellar = data[keys[Math.round(Math.random() * (keys.length - 1))]];
     return {
       r: stellar.r,
       g: stellar.g,
@@ -16,7 +16,7 @@ const chromaticity = {
   },
 
   randomHex () {
-    return data[keys[Math.round(Math.random() * keys.length)]].hex;
+    return data[keys[Math.round(Math.random() * (keys.length - 1))]].hex;
   }
 };
 
