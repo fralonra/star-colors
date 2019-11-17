@@ -1,6 +1,6 @@
 # star-colors
 
-[![Build Status](https://travis-ci.org/fralonra/star-colors.svg?branch=master)](https://travis-ci.org/fralonra/star-colors)
+[![Build Status](https://travis-ci.com/fralonra/star-colors.svg?branch=master)](https://travis-ci.com/fralonra/star-colors)
 [![npm version](https://img.shields.io/npm/v/star-colors.svg)](https://www.npmjs.com/package/star-colors)
 
 Get realistic colors of stars in rgb or hex. Datas come from [Mitchell Charity's](http://www.vendian.org/mncharity/dir3/starcolor/UnstableURLs/starcolors.txt).
