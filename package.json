@@ -1,6 +1,6 @@
 {
   "name": "star-colors",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Get realistic colors of stars",
   "main": "index.js",
   "scripts": {
